@@ -1,4 +1,10 @@
-### Olá! Eu sou o João Victor Ribeiro 👋🏻
+### Hello! I am João Victor Ribeiro 👋🏻
+
+## About me:
+- I live in Brazil and I'm 20 years old.
+- I'm studying Computer Science at Universidade Federal de Juiz de Fora.
+- Software developer 🖤 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sccp_jv)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-ribeiro-5445892ab/)
 [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictormr204@gmail.com)
@@ -9,7 +15,7 @@
 
 
 
-## Tecnologias:
+## Technologies:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
