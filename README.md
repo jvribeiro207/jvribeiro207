@@ -1,7 +1,7 @@
-### Hello! I am João Victor Ribeiro 👋🏻
+### Hello! I am João Victor Macedo Ribeiro 👋🏻
 
 ## About me:
-- I live in Brazil and I'm 20 years old.
+- I live in Brazil and I'm 21 years old.
 - I'm studying Computer Science at Universidade Federal de Juiz de Fora.
 - Software developer 🖤 
 
